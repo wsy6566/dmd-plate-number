@@ -1,9 +1,9 @@
 {
-  "name": "vehicle-plate-keyboard",
+  "name": "dmd-plate-number",
   "license": "MIT",
-  "version": "0.8.3",
-  "description": "Chinese vehicle plate number keyboard for React",
-  "author": "LiuuY <mail4c59@gmail.com>",
+  "version": "0.0.1",
+  "description": "Chinese vehicle plate number keyboard for React and Only 7 charts ,not have green plate",
+  "author": "weisy",
   "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
