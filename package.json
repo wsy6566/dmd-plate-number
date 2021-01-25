@@ -1,7 +1,7 @@
 {
   "name": "dmd-plate-number",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chinese vehicle plate number keyboard for React and Only 7 charts ,not have green plate",
   "author": "weisy",
   "private": false,
